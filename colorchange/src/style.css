@@ -1,0 +1,12 @@
+
+.App{
+    box-sizing: border-box;
+    height: 500px;
+    width: 500px;
+    border: solidblack;
+}
+.App_color_container{
+ height: 540px;
+ width: 540px;
+ 
+}
